@@ -138,7 +138,7 @@ Post #1 does not have comment #1.
 Error: marstin cannot uncomment comment #2 of post #1 posted by zhuzhuoer!
 Post #1 does not have comment #2.
 >> uncomment
-Error: marstin cannot uncomment post #2 of zhuzhuoer!
+Error: marstin cannot uncomment comment #1 of post #2 posted by zhuzhuoer!
 zhuzhuoer does not have post #2.
 >> comment
 >> uncomment
